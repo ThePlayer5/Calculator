@@ -27,7 +27,8 @@
                  Grid.Row="1"
                  BorderThickness="2"
                  FontSize="24"
-                 VerticalContentAlignment="Center"/>
+                 VerticalContentAlignment="Center"
+                 x:Name="Input"/>
         <Button Grid.Row="2"
                 Content="7"
                 x:Name="SevenBtn"
